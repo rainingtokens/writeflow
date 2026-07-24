@@ -1,0 +1,47 @@
+{
+  "loot": {
+    "small": [
+      "A fancy coffee tomorrow",
+      "15 minutes of guilt-free scrolling",
+      "One song played embarrassingly loud",
+      "Dessert after dinner tonight"
+    ],
+    "medium": [
+      "One episode of whatever you're watching",
+      "Order in instead of cooking",
+      "An hour of gaming / reading for pure pleasure"
+    ],
+    "jackpot": [
+      "Movie night \u2014 full ritual, snacks included",
+      "Buy that thing sitting in your cart",
+      "A completely free evening: no writing, no guilt"
+    ]
+  },
+  "shop": [
+    {
+      "id": "coffee",
+      "name": "Fancy coffee run",
+      "cost": 40
+    },
+    {
+      "id": "takeout",
+      "name": "Takeout night",
+      "cost": 90
+    },
+    {
+      "id": "book",
+      "name": "New book, no justification needed",
+      "cost": 150
+    },
+    {
+      "id": "dayoff",
+      "name": "Guilt-free skip day (streak preserved)",
+      "cost": 250
+    },
+    {
+      "id": "splurge",
+      "name": "The big splurge (you know the one)",
+      "cost": 600
+    }
+  ]
+}

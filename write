@@ -1,0 +1,3 @@
+#!/bin/bash
+# Launcher for WriteFlow — symlink or alias this so "write done 400" works anywhere.
+exec /usr/bin/python3 "$(dirname "$0")/writeflow.py" "$@"
